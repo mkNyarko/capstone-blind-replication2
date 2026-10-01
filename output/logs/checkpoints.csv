@@ -1,0 +1,5 @@
+step,figure1_box,n
+1,Raw data (4 quarters combined),17281
+2,After deduplication,15971
+3,After cleaning age variable,8067
+4,Primary Suspect (PS),5302
