@@ -1,0 +1,1172 @@
+1. N Engl J Med. 2016 Nov 10;375(19):1834-1844. doi: 10.1056/NEJMoa1607141. Epub 
+2016 Sep 15.
+
+Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.
+
+Marso SP(1), Bain SC(1), Consoli A(1), Eliaschewitz FG(1), Jódar E(1), Leiter 
+LA(1), Lingvay I(1), Rosenstock J(1), Seufert J(1), Warren ML(1), Woo V(1), 
+Hansen O(1), Holst AG(1), Pettersson J(1), Vilsbøll T(1); SUSTAIN-6 
+Investigators.
+
+Collaborators: Fitchett D, Bebchuk JD, Boon N, Gardner T, Inzucchi S, Chaitman 
+BR, Bach R, Gosselin G, Laddu AA, Albert SG, Gyawali CP, Mullady DK, Block G, 
+Bushinsky D, Martin K, Alsheklhee A, Cruz-Flores S, Feen ES, Jacoby MA, Picus J, 
+Schroeder MA, Akduman L, Dudney BW, Aberkane K, Bachaoui M, Benali LN, Berra A, 
+Bouacha Y, Bouziani N, Charef TE, Dahliz S, Far M, Griene S, Guessas M, Guettaf 
+NEH, Hachelaf FZ, Hannane SI, Lakabi Z, Salah Mansour A, Merabet H, Moussaoui A, 
+Nechadi A, Ouardane S, Rahou A, Bianchi G, Caeiro G, Calveyra M, Cestari H, 
+Cluigt N, Diaz E, Ferrari D, Finkelstein H, Frechtel G, Galeano G, Garate L, 
+Geronazzo V, Gili G, Heredia C, Hermida S, Issa C, Lapolla S, Lovecchio S, 
+Lozano M, Marianacci A, Martinez P, Moukarzel J, Muller C, Olivera C, Oviedo A, 
+Parysow E, Ponce F, Pozzi J, Ridner E, Sanabria H, Sernia V, Solis S, Sposetti 
+G, Varela P, Visco V, Waitman J, Yohena S, Bennett J, Davis T, Ding SA, Fulcher 
+G, Gilfillan C, Ho J, Hocking S, Lau SL, Lee M, Lin J, Lynch K, MacIsaac R, 
+Makepeace A, McLean M, Naderpoor N, Nathow T, Radhakutty A, Rank E, Reddy K, 
+Roberts A, Sachithanandan N, Simpson R, Stranks S, Teng J, Ward G, Zhang J, 
+Akerman G, Alves E, Alves B, Alves J, Berlinger P, de Bem A, Bona R, Carolina A, 
+Castro D, Cercato C, Costa M, Felício J, Franco D, Genestreti P, Gonçalves R, 
+Grossman M, Gross J, Guimarães C, Jonasson T, Justus F, Ladeira S, Melo F, Miléo 
+K, Miyahara M, Perlamagna L, Rea R, Regina C, Rodovalho S, Santomauro A, Saraiva 
+J, Sartori C, Silvia F, Siqueira K, Turatti L, Uehara M, Valenti A, Visconti G, 
+Zanatta L, Zanella MT, Asyova Z, Boyadzhieva M, Daskalova I, Ganeva-Todorova S, 
+Hristozov K, Kibarova G, Kokareshkov V, Kolcheva G, Lefterov I, Popova N, 
+Todorova K, Toneva A, Totomirova T, Trifonova B, Veleva N, Advani A, Burs S, 
+Chouinard S, Chu M, Conway J, Dube F, El Boreky F, Fikry S, Garceau C, Gervais 
+B, Ghosh M, Girard JM, Hanna A, Hruczkowski T, Hurd C, Josse R, Joy T, Jutras M, 
+Khosla M, Kirouac I, Labonte I, Li S, Liutkus J, Hramiak IM, McDonald C, Nanji 
+A, Padwal R, Patasi B, Paul T, Pedersen S, Raby K, Rosenbloom A, Scharf L, 
+Senior P, Shaikholeslami R, Sivakumar C, Tapardel A, Theriault G, Tsoukas G, 
+Tsoukas M, Tarnow L, Gregersen S, Grethe A, Hermansen K, Larsen M, Knop FK, 
+Olesen T, Madsbad S, Dahl D, Deuse U, Esser M, Gaede K, Hagenow A, Kilimnik A, 
+Lammers D, Laubner K, Lüdemann HP, Lüdemann J, Mittag D, Pohlmeier H, Rose L, 
+Schaum T, Thaler J, Wendisch U, Abo-Salook M, Azzam I, Bar-Dayan Y, Bar-or I, 
+Bashkin A, Benbassat C, Cahn A, Chananashvili L, Eizenberg Y, Feldman D, 
+Gershkov S, Gorshtein A, Halabe A, Hirsch D, Hochman I, Ilany J, Inbal U, 
+Izkhakov E, Karasik A, Kuyantseva E, Leibovitch I, Lieberman GS, Masri-Iraqi H, 
+Michael L, Mosenzon O, Nodelman M, Percik R, Potekhin M, Raz I, Robenshtok E, 
+Serebro M, Shaklai S, Shimon I, Shpitz D, Singer J, Slutzky I, Stern N, Tilis Y, 
+Tirosh A, Tsvetov G, Vollach I, Wainstein J, Yaron M, Zvulunov E, Baldassarre 
+MPA, Belligoli A, Bettini V, Di Biagio R, Bianchini S, Carta I, Ceccarelli E, 
+Conci S, Corona G, Dodesini AR, Dotta F, Fabris R, Febo F, Di Fulvio P, Isoni S, 
+Nigi L, Di Pizio L, Prà CD, Scaranna C, Serra R, Sforza A, Tinari C, Tonolo G, 
+Torricelli V, Trevisan R, Vettor R, Vujosevic S, Zabeo E, Zanato V, Ahmad WAW, 
+Amin NH, Cham YL, Chua S, Erng T, Fong AYY, Ghapar AKA, Khiew NZ, Kuan YC, 
+Laubner BK, Lee G, Lim KC, Mahendran KA, Malek AMA, Ong TK, Rozario F, Said A, 
+Sari NA, Sothiratnam R, Sridhar G, Tan F, Tan SK, Tay LK, Tey J, Vijayasingham 
+S, Voon CY, Chan KLY, Baez-Campos A, Martinez-Nolasco B, González-Valencia C, 
+Villasana-Galeana C, Olvera C, Castillo Reveles D, Larios-Mora D, 
+Montaño-Gonzalez E, Pacheco Aranda E, Hernandez Lopez E, Chavez Manzanera E, 
+Luna-Martínez F, Lopez-Hernandez F, Medina Alemán F, Rodriguez Briones I, 
+Peralta-Cantu I, Olvera-Alvarez I, Haro Ortiz JA, Marin-Lopez JJ, Garcia Garcia 
+J, Chávez Torres J, Sauque-Reyna L, Aguilar-Parra L, Virgen-Carrillo L, Amaya 
+Morante LA, Carmona Furusho L, Reynaga L, Montaño-Gonzalez M, del Carmen Juarez 
+Cervantes M, Martinez-Trejo N, Gomez P, Diaz De Leon-Reyes PP, Frenk PB, Sanchez 
+Vargas P, Violante Ortiz RM, Estrada Garcia R, Rodriguez Briones R, 
+Gonzalez-Perez R, Lopez Covarrubias R, Guerrero-Reyes R, Chong-Garcia Torres S, 
+Jimenez-Ramos S, Cichocka E, Czernecka E, Dabrowska M, Gladysz I, Gumprecht J, 
+Jusiak K, Knychas D, Laszewska G, Mazerska M, Nabrdalik K, Poplawska E, 
+Poplawski A, Puch U, Romanczuk P, Szydlowski W, Szyprowska E, Walczak A, Wolnik 
+B, Arushanova Matveeva Y, Astamirova K, Bukhalova E, Dubova V, Dvoryashina I, 
+Edemskaya E, Gaysina L, Gromova S, Iskhakova Tyutyunnikova I, Kalashnikova M, 
+Kargapoltseva O, Kargina L, Kholmatova K, Kiseleva T, Komissarova E, Kovaleva S, 
+Kovalevskaia E, Krivosheeva I, Kufelkina T, Kunitsyna M, Kurbanova V, Likhodey 
+N, Lomova A, Lvova L, Lysenko T, Malceva A, Martinovich A, Ogorodnikova E, 
+Osipova O, Ostrovskaya I, Postoeva A, Prigoda N, Reshedko D, Reshedko L, 
+Reshedko G, Rodionova T, Ruyatkin D, Ruyatkina L, Samylina I, Sardinov R, 
+Sergeeva-Kondrachenko M, Shabanova E, Shatkovskaya N, Shilina Kutuzova N, 
+Shimokhina O, Shuvaeva A, Sorkina E, Sorokin M, Suvorova L, Sych Y, Talalaeva N, 
+Valeeva A, Valeeva F, Vinokurova V, Yanovskaya E, Yanovskaya M, Zakharova T, 
+Zhukova E, Zimina I, Zinenko A, Znamenshchikova G, Arr Arroyo BP, Beltrán M, 
+García Bidón H, Cepero D, Sedeño Díaz JM, Elvira J, Rivas Fernández M, Obiols 
+Fornells MA, García Ordóñez MÁ, Bascuñana Quirell A, Mezquita Raya P, Reyes R, 
+Ruiz Serra A, Serrarols Soldevila M, López Suarez A, Terns M, Chen JY, Chou CW, 
+He CT, Hsieh CH, Hsu BR, Hua SC, Huang CH, Huang YY, Hung YJ, Lee C, Lin CW, Lin 
+CH, Liou MJ, Lu WT, Lu CH, Sun JH, Tai TS, Tien KJ, Wang CC, Wu LY, Yang CY, Yen 
+FC, Yu HI, Boonyasirinant T, Boonyavarakul A, Deerochanawong C, Katekao W, 
+Maneesai A, Naeowong W, Pumprueg S, Srichomkwun P, Sriratanasathavorn C, Sritara 
+P, Sunthornyothin S, Tejavanija S, Thirawuth V, Wangpatharawanit P, 
+Wattanachanya L, Wongpraparut N, Ahbab S, Akin F, Akinci B, Akyay O, Altunbas H, 
+Apaydin M, Asik M, Ataoglu E, Atasoy A, Bahadir MA, Beysel S, Cakal E, Calan M, 
+Caliskan M, Cavdar U, Comlekci A, Delibasi T, Demir T, Demirci T, Dogan B, 
+Dönmez H, Ergen A, Eroglu M, Erturk M, Guler S, Gumus T, Gur S, Imga N, Kan S, 
+Karakilic E, Karakose M, Kizilgul M, Mesci BA, Oguz A, Orbay E, Ozcelik O, 
+Ozcelik S, Ozisik S, Saglam F, Sagun H, Samanci N, Sari R, Selek A, Semerci A, 
+Tahmaz M, Tarkun I, Topaloglu O, Topsakal S, Turker F, Tutal E, Ucan B, Ukinc K, 
+Yaylali G, Yener S, Yenigun M, Yerlikaya E, Abraham P, Aftab S, Bellary S, 
+Cadzow A, Chhokar B, Deshpande M, Devany L, Dokhe P, Elshashai A, Febbraro S, 
+Inkster J, Jayia P, Kurup U, Lascar N, MacKay J, Rajeev S, Seetho I, Shiels H, 
+Shukla U, Smith J, Stanciu D, Subramanian G, Taylor J, Weeraratne D, Wilding J, 
+Abreu M, Agaiby J, Agaiby E, Aguillon A, Ahmed S, Alaoui R, Alarcon S, Alexander 
+L, Ali A, Allen K, Al-Maliky T, Alvi M, Andersen J, Anthony V, Arcon-Rios S, 
+Arkin D, Arodak B, Arroyo S, Asmar I, Attel S, Azar M, Aziz A, Azizad M, Bachand 
+T, Baier M, Bajaj C, Baker C, Baker C, Baker C, Balentine T, Ballard T, Banarer 
+S, Banks J, Barchini G, Barra J, Barrett J, Bartilucci D, Bauer N, Baum H, 
+Baumann M, Bax J, Bays H, Becerra K, Bedel G, Behl N, Bell A, Benavidez B, 
+Bender W, Bergamo K, Bernstein R, Berry M, Bestermann W, Beyea M, Bhambri R, 
+Bice CR, Bilas A, Bishop K, Bixler L, Blair C, Boncu O, Bonner J, Borromeo A, 
+Botros E, Boyd G, Bragg C, Brassfield A, Breen J, Brennan M, Brewington S, 
+Bricker C, Brickner C, Brown M, Brown A, Bryant D, Buck G, Buckley B, Budzinski 
+S, Bukowski J, Bunyard H, Burdette T, Burgess-Blalock C, Burton A, Busch R, Buse 
+J, Bushong D, Butler N, Byars W, Bybee K, Bye R, Byers J, Caldwell R, Calvin K, 
+Camacho A, Cameron J, Cannon M, Cannon D, Cannon K, Capuchino J, Cardella S, 
+Carmolli-Cornette L, Carpio G, Casagni K, Cassell B, Castay C, Catenacci V, 
+Cerullo J, Chaidarun S, Chambers J, Chaykin L, Cherry A, Cheyne T, Chochinov R, 
+Choe J, Chow C, Christina M, Christopher S, Chu J, Chuang E, Church L, Ciampa A, 
+Cohen E, Cohen N, Collins B, Combs J, Comi R, Conn B, Cook D, Correll C, Cortes 
+G, Cortez A, Covington D, Critchson S, Culmer D, Cunningham L, Curll J, Daboul 
+N, Dagogo-Jack S, Daly-Barnes K, Dang A, Daniels D, Darlington H, Davis M, 
+Daynes R, Dayton T, Dean J, DeAtkine D, Delgado E, DeMicco M, DeSalle D, Desouza 
+C, Devlin D, Dezube M, DiCerbo N, DiDonato M, Diesburg-Stanwood A, Dilembo J, 
+Diller P, Diner J, Dluge-Aungst D, Dodis R, Donoho A, Dor I, Doremus N, 
+Doriguzzi D, Dostou J, Douglass S, Dowell M, Draper B, Drincic A, Du H, Duckor 
+S, Duclos M, Duffy-Hidalgo B, Duma C, Duncan S, Durant R, Durham N, Dusek J, 
+Eagerton D, Ebeling K, Ebenibo S, Edeoga C, Edgett R, Edwards G, Edwin J, 
+Egelhof R, Ekwensi J, Elliott TO, Elmore M, Elson D, Emmert L, Entriken L, Van 
+Epps H, Erie M, Everhart B, Farmer M, Farnesi D, Fernandes L, Ferrington B, Fink 
+V, Fishman N, Florida C, Forker A, Forward J, Freudemann K, Fuller G, Fuller G, 
+Fusco F, Gagianas P, Galagan R, Galloway A, Gansner E, Gaona R, Garcia I, Garcia 
+G, Garvin M, Gaudiani L, Gault J, Gavazov M, Gawad M, Gedbaw C, Gerace C, 
+Gilbert M, Godwin S, Goebel T, Goley A, Golici L, Gonzalez MA, Goodhart C, 
+Gosmanov A, Goswami K, Gray S, Greco S, Green C, Greenberg C, Griffen J, 
+Gruenther P, Guadron-Hernandez L, Guasp L, Guice M, Gunther D, Gustin H, 
+Gutierrez H, Haggag A, Haggar M, Hammond J, Hanyok A, Hardy C, Harper W, Harrell 
+W, Harris E, Harrison L, Hartsell R, Haseeb M, Hastings A, Hayes D, Hedrick C, 
+Helman L, Helman M, Helton A, Hendrick M, Hendrickson C, Hennekes G, Herbst A, 
+Hernandez G, Herring C, Hess E, Hilliard B, Hoagland E, Hoberman E, Hoffman L, 
+Hoffmann A, Hogan E, Hook K, Van Hoornbeek D, Hope M, Hopson B, Horner J, 
+Horobetz C, Houser P, Htun W, Hudson T, Huerta B, Huizar S, Hullett M, Hummer K, 
+Hwang SY, Ingram W, Ingram M, Ismail-Beigi F, Iverson L, Jackson T, Jackson T, 
+Jackson R, Jacqmein J, Jantzi C, Joffrion I, St John J, Johnson M, Jones S, 
+Juarez M, Juergens T, Jutras S, Kain A, Kapogiannis C, Kassem L, Kaster S, 
+Katalenich B, Kawa A, Keiran S, Ketchum M, Keuchel J, Khadka P, Khamousia N, 
+Khan K, Khan A, Khan J, Kiester J, Kim G, Kimmel M, King K, Kirkman MS, Kniffen 
+W, Koehler T, Konigsberg S, Koren M, Korngut I, Krishnasamy S, Kuettel K, Kulow 
+T, Kumar M, Kumar S, Kunst E, Kwan R, Kwon E, LaBryer L, Laliberte A, Lane T, 
+Lane J, Lang J, Largay J, Larrabee P, Larsen D, Latif K, Lattinville B, Lawrence 
+J, Leonard M, Leonard K, Lewis C, Lewis M, Licklider D, Lim J, Lipps J, 
+Lisovskiy S, Liu MH, Livingston Y, Lloyd S, Loeck A, Loesch R, Lopez L, Loreto 
+M, Lovre D, Lu P, Lucas K, Luevano G, Luna B, Lung J, De La Luz M, Lynch M, 
+Lyons T, Mack D, Madder R, Magee J, Mahakala A, Maheshwari H, Mallitz M, 
+Maluchnik B, Malyszko S, Manessis A, Mann K, Marney A, Marshall L, Martin M, Maw 
+K, May M, Mayfield R, Mazhar G, Mbogua C, McCartney M, McDuffie R, 
+McKendall-Lewis C, McKenzie L, McKibben K, McNair R, Mehta P, Meisner C, Melchor 
+N, Mello C, Meredith M, Michael D, Micklewright G, Midyett C, Miller J, Miller 
+A, Miller T, Miller N, Miller K, Minyon-Sarver D, Mittadodla S, Moeller J, 
+Mohammadbhoy A, Mokshagundam S, Moloughney M, Monaco S, Montgomery C, Moody K, 
+Mooney J, Moore M, Morawski E, Moreau C, Morekas D, Morin D, Mueller T, Muir D, 
+Mullen J, Murak D, Naderi B, Naidu J, Ndukwu I, Nelson L, Nelson L, Nelson C, 
+Neuberger C, Neumeister A, Nichols M, Nickerson N, Nockerts N, O'Brien H, Oden 
+W, O'Donnell P, Odugbesan A, Oiknine R, Olio T, Oliver M, Olmeda C, Olsen S, 
+O'Neil C, Ortega T, Ostrowski P, Otah K, Otero H, Packard K, Painter K, Pangtay 
+D, Pangtay S, Papacostea O, Papierniak N, Parker A, Pascal A, Pascal-Doriguzzi 
+A, Patel A, Patel C, Patel M, Patel B, Patterson M, Paulus C, Peek M, Pegg A, 
+Phelps S, Phillips B, Piccola J, Pickett A, Pinero G, Pitts A, Platt J, Poduri 
+M, Poehls J, Ponte G, Pop L, Power E, Price E, Priest D, Quadrel M, Quinney R, 
+Quyyumi S, Rabalais M, Rabideau D, Rahman J, Raidl C, Ramirez K, Ramsey S, 
+Rangaraj U, Rao V, Rasmussen B, Rasouli N, Rauch R, Ray S, Recker B, Redding J, 
+Redrick S, Reheis J, Reiling J, Reiling S, Rems L, Rettig K, Reusch J, Reynolds 
+M, Ricci C, Rice L, Rickard H, Rios-Santiago J, Ritchey B, Rivera S, Rizos D, 
+Rizvi SF, Robbins R, Robison D, Rocco S, Roche C, Rodes A, Perdomo Rodriguez JP, 
+Rodriguez M, Rojas M, Rokoff N, Roney C, Rooker-Morris L, Root C, Roozen C, Ross 
+I, Roth M, Roth E, Rothman J, Roura M, Russell K, Russell E, Rutherford C, 
+Salazar J, Salazar J, Sanagorski R, Sandy A, Santiago J, Saunders J, Schmidt H, 
+Schneider C, Schramm E, Schramm R, Schultzaberger R, Schweppe L, Scott R, 
+Scribner A, Seddon T, Seekford J, Segel S, Severance R, Severson M, Shah K, Shaw 
+J, Shay M, Sheets M, Shelton C, Shelton L, Shelton S, Shikany J, Shippey J, 
+Shivaswamy V, Shlesinger Y, Shlotzhauser T, Shook M, Shore D, Shvarts M, 
+Siddiqui M, Silver R, Simon H, Singh M, Sites MJ, Sitton D, Sivalingam K, Smith 
+D, Smith K, Smith N, Smith T, Smith J, Snyder J, Snyder B, Sood A, Soon J, 
+Sorrentino L, Sortor J, Sosnowchik J, Soufer J, Spears J, Spector L, Speicher R, 
+Stacey A, Stafford M, Stanford J, Stayer M, Stell C, Stenger E, Stockhammer S, 
+Stoneman J, Straatmann D, Sugimoto D, Sugimoto M, Sultan F, Suryadevara S, 
+Sutton D, Swan D, Sy C, Talley S, Talsania M, Tan A, Taylor P, Thethi T, Thomas 
+S, Thompson C, Thottan A, Tiktin M, Tillson R, Timpe R, Tinney I, 
+Tirado-Bernardini R, Tobias C, Tobin T, Toe F, Torello C, Tousson A, Tousson J, 
+Toven J, Tran C, Trantow C, Travaglini S, Traylor H, Tripp D, Tumyan A, Turner 
+J, Twine M, Tyson T, Underkofler C, Uzoaga E, Valdivia V, Valencia P, Valitutto 
+M, Vanderheiden A, Varavenkataraman R, Vickery D, Vincent S, Wadud K, Wahl T, 
+Walker F, Walsh K, Wang A, Wardell K, Weindorff K, Weir M, Weisbrot A, Weiss S, 
+Weiter K, Wenker M, Wenocur H, West M, White E, White J, Whitehead R, Whittle J, 
+Wigley C, Wilkins F, Williams H, Williams M, Williamson C, Wilson LE, Windsor S, 
+Wingo L, Winkle P, Wishard L, Wisneski S, Witte M, Wolfman L, Wollet J, Wood R, 
+Wyatt H, Yassini P, Yeoman G, York D, Young L, Young T, Zaretzky J, Ziboh M, 
+Zimmer E.
+
+Author information:
+(1)From the Research Medical Center, Kansas City, MO (S.P.M.); School of 
+Medicine, Swansea University, Swansea, United Kingdom (S.C.B.); Department of 
+Medicine and Aging Science and Center of Excellence on Aging and Translational 
+Medicine, G. d'Annunzio University, Chieti-Pescara, Italy (A.C.); CPClin 
+Research Center/Hospital Israelita Albert Einstein, São Paulo (F.G.E.); Hospital 
+Universitario Quirón Salud Madrid, Facultad de Ciencias de la Salud, Universidad 
+Europea de Madrid, Madrid (E.J.); Li Ka Shing Knowledge Institute and Keenan 
+Research Centre for Biomedical Science, St. Michael's Hospital, University of 
+Toronto, Toronto (L.A.L.), and the University of Manitoba, Winnipeg (V.W.) - 
+both in Canada; University of Texas Southwestern Medical Center (I.L.) and 
+Dallas Diabetes Research Center at Medical City (J.R.) - both in Dallas; 
+University of Freiburg Medical Center, Faculty of Medicine, University of 
+Freiburg, Freiburg, Germany (J.S.); Physicians East, Greenville, NC (M.L.W.); 
+and Novo Nordisk, Søborg (O.H., A.G.H., J.P.), and the Center for Diabetes 
+Research, Gentofte Hospital, University of Copenhagen, Hellerup (T.V.) - both in 
+Denmark.
+
+Comment in
+    Ann Intern Med. 2017 Jan 17;166(2):JC8. doi: 10.7326/ACPJC-2017-166-2-008.
+    N Engl J Med. 2017 Mar 2;376(9):891. doi: 10.1056/NEJMc1615712.
+    N Engl J Med. ;376(9):890. doi: 10.1056/NEJMc1615712.
+    N Engl J Med. ;376(9):890-1. doi: 10.1056/NEJMc1615712.
+    Evid Based Med. 2017 Apr;22(2):57-58. doi: 10.1136/ebmed-2016-110652.
+    MMW Fortschr Med. 2023 Feb;165(2):66. doi: 10.1007/s15006-023-2301-9.
+
+BACKGROUND: Regulatory guidance specifies the need to establish cardiovascular 
+safety of new diabetes therapies in patients with type 2 diabetes in order to 
+rule out excess cardiovascular risk. The cardiovascular effects of semaglutide, 
+a glucagon-like peptide 1 analogue with an extended half-life of approximately 1 
+week, in type 2 diabetes are unknown.
+METHODS: We randomly assigned 3297 patients with type 2 diabetes who were on a 
+standard-care regimen to receive once-weekly semaglutide (0.5 mg or 1.0 mg) or 
+placebo for 104 weeks. The primary composite outcome was the first occurrence of 
+cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke. We 
+hypothesized that semaglutide would be noninferior to placebo for the primary 
+outcome. The noninferiority margin was 1.8 for the upper boundary of the 95% 
+confidence interval of the hazard ratio.
+RESULTS: At baseline, 2735 of the patients (83.0%) had established 
+cardiovascular disease, chronic kidney disease, or both. The primary outcome 
+occurred in 108 of 1648 patients (6.6%) in the semaglutide group and in 146 of 
+1649 patients (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence 
+interval [CI], 0.58 to 0.95; P<0.001 for noninferiority). Nonfatal myocardial 
+infarction occurred in 2.9% of the patients receiving semaglutide and in 3.9% of 
+those receiving placebo (hazard ratio, 0.74; 95% CI, 0.51 to 1.08; P=0.12); 
+nonfatal stroke occurred in 1.6% and 2.7%, respectively (hazard ratio, 0.61; 95% 
+CI, 0.38 to 0.99; P=0.04). Rates of death from cardiovascular causes were 
+similar in the two groups. Rates of new or worsening nephropathy were lower in 
+the semaglutide group, but rates of retinopathy complications (vitreous 
+hemorrhage, blindness, or conditions requiring treatment with an intravitreal 
+agent or photocoagulation) were significantly higher (hazard ratio, 1.76; 95% 
+CI, 1.11 to 2.78; P=0.02). Fewer serious adverse events occurred in the 
+semaglutide group, although more patients discontinued treatment because of 
+adverse events, mainly gastrointestinal.
+CONCLUSIONS: In patients with type 2 diabetes who were at high cardiovascular 
+risk, the rate of cardiovascular death, nonfatal myocardial infarction, or 
+nonfatal stroke was significantly lower among patients receiving semaglutide 
+than among those receiving placebo, an outcome that confirmed the noninferiority 
+of semaglutide. (Funded by Novo Nordisk; SUSTAIN-6 ClinicalTrials.gov number, 
+NCT01720446 .).
+
+DOI: 10.1056/NEJMoa1607141
+PMID: 27633186 [Indexed for MEDLINE]
+
+
+2. N Engl J Med. 2019 Aug 29;381(9):841-851. doi: 10.1056/NEJMoa1901118. Epub
+2019  Jun 11.
+
+Oral Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.
+
+Husain M(1), Birkenfeld AL(1), Donsmark M(1), Dungan K(1), Eliaschewitz FG(1), 
+Franco DR(1), Jeppesen OK(1), Lingvay I(1), Mosenzon O(1), Pedersen SD(1), Tack 
+CJ(1), Thomsen M(1), Vilsbøll T(1), Warren ML(1), Bain SC(1); PIONEER 6 
+Investigators.
+
+Collaborators: Bachaoui M, Hachelaf FZ, Mansour AS, Malek R, Aizenberg D, 
+Baccaro C, Oviedo A, Pozzi J, Sanabria H, Visco V, Eliaschewitz F, Aggarwal N, 
+Goldenberg R, Gupta M, Husain M, Li S, Pedersen S, Tsoukas G, Gram J, Gregersen 
+S, Hegedüs L, Madsbad S, Vilsbøll T, Birkenfeld AL, Esser M, Hagenow A, Kempe 
+HP, Lüdemann J, Nauck M, Schaum T, Segner A, Wendisch U, Wenzl-Bauer V, Anjana 
+RM, Bandgar T, Chaudhury T, Desai A, Deshmukh V, Jacob J, Kumar H, Kudalkar H, 
+Marwah T, Mukhopadhyay S, Mutha A, Radhakrishnan C, Prakash A, Jabbar PK, Sethi 
+B, Tandon N, Bashkin A, Cohen J, Mosenzon O, Sabbah M, Shimon I, Stern N, 
+Wainstein J, Buscemi S, Consoli A, Lauro D, Maranghi M, Piatti P, Sesti G, 
+Trevisan R, Hussein Z, Izani Wan Mohamed WM, Ong TK, Ramanathan L, Rosman A, 
+Sothiratnam R, Tan F, Tan TB, Vijayasingham S, Yahaya N, Arechavaleta-Granell M, 
+Rodriguez Briones I, Gonzalez-Galvez G, Garcia Hernandez PA, Jimenez-Ramos S, 
+Medina C, AlHakim M, Kooy A, Lieverse AG, Meesters EW, Tack CJ, Bogdanski P, 
+Czernecka E, Gajos G, Stankiewicz A, Szyprowska E, Cif A, Guja C, Mîndrescu N, 
+Mistodie C, Onaca A, Vacaru G, Vlaiculescu M, Zetu C, Badat A, Bonnici F, Hoosen 
+F, Lombaard J, Makan H, Moosa N, Reddy J, Tayob M, Joshi P, Masmiquel Comas L, 
+de la Cuesta C, Rivas Fernández M, Ferrer García JC, Torres Jimenez R, Tinahones 
+Madueño F, Mauricio D, Merino-Torres JF, Zapatero A, Chen JF, Chuang LM, Sheu 
+WH, Tien KJ, Boonyavarakul A, Deerochanawong C, Krittayaphong R, Phornphutkul M, 
+Piyayotai D, Suwanwalaikorn S, Tantiwong P, Akturk M, Altuntas Y, Araz M, Kemal 
+Balci M, Comlekci A, Gullu S, Ozgen A, Tuna M, Unubol M, Bain S, Dhatariya K, 
+Galliford T, Johnson A, McCrimmon R, Mcknight J, Philip S, Russell-Jones D, 
+Vaidya B, Ackermann J, Allison D, Aronoff S, Baker C, Bays H, Bradley P, 
+Brautigam D, Brinson C, Busch R, Cannon K, Casaubon L, Chang A, Chaicha-Brom T, 
+Chilka S, Chochinov R, Chu J, Daboul N, Desouza C, DiGiovanna M, Dominguez M, 
+Dungan K, Eagerton D, Everhart B, Farris N, Fink R, Fitz-Patrick D, Fogarty C, 
+Fraser N, Gilbert M, Hasan S, Huffman D, Jantzi C, Johnson D, Karounos D, Lane 
+W, Ledesma G, Levenson D, Lillestol M, Lingvay I, Lovell C, Manning R, Marar I, 
+May M, Meyers P, Nagelberg S, Nakhle S, Ndukwu I, O'Donnell P, Pantalone K, 
+Philis-Tsimikas A, Rangaraj U, Reed J, Reedy M, Reeves M, Risser J, Rosenblit P, 
+Rosenstock J, Said S, Shaw S, Shlesinger Y, Shneker A, Silver R, Sivalingam K, 
+Sofley C, Strzinek R, Tandron I, Thrasher J, Warren M, Wierum C.
+
+Author information:
+(1)From the Peter Munk Cardiac Centre, University Health Network, Department of 
+Medicine and the Heart and Stroke Richard Lewar Centre, University of Toronto, 
+Toronto General Hospital Research Institute, and the Ted Rogers Centre for Heart 
+Research, Toronto (M.H.), and the C-endo Diabetes and Endocrinology Clinic, 
+Calgary, AB (S.D.P.) - all in Canada; Medical Clinic III, Universitätsklinikum 
+Carl Gustav Carus, Technische Universität Dresden, and the Paul Langerhans 
+Institute Dresden of Helmholtz Zentrum München at Technische Universität 
+Dresden, German Center for Diabetes Research, Dresden, Germany (A.L.B.); the 
+Division of Diabetes and Nutritional Sciences, Rayne Institute, King's College 
+London, London (A.L.B.), and the Diabetes Research Unit Cymru, Swansea 
+University Medical School, Swansea (S.C.B.) - both in the United Kingdom; Novo 
+Nordisk, Søborg, Denmark (M.D., O.K.J., M.T.); the Division of Endocrinology, 
+Diabetes, and Metabolism, Ohio State University, Columbus (K.D.); Centro de 
+Pesquisas Clínicas/Diagnosticos da America Clinical Research Center, São Paulo 
+(F.G.E., D.R.F.); the Departments of Internal Medicine and Population and Data 
+Sciences, University of Texas Southwestern Medical Center, Dallas (I.L.); the 
+Diabetes Unit, Division of Internal Medicine, Hadassah Hebrew University 
+Hospital, Jerusalem (O.M.); the Department of Internal Medicine, Radboud 
+University Medical Center, Nijmegen, the Netherlands (C.J.T); Clinical Metabolic 
+Physiology, Steno Diabetes Center Copenhagen, University of Copenhagen, 
+Gentofte, Denmark (T.V.); and Physicians East, Greenville, NC (M.L.W.).
+
+Comment in
+    Ann Intern Med. 2019 Sep 17;171(6):JC28. doi: 10.7326/ACPJ201909170-028.
+    N Engl J Med. 2019 Nov 21;381(21):2075-2076. doi: 10.1056/NEJMc1913157.
+
+BACKGROUND: Establishing cardiovascular safety of new therapies for type 2 
+diabetes is important. Safety data are available for the subcutaneous form of 
+the glucagon-like peptide-1 receptor agonist semaglutide but are needed for oral 
+semaglutide.
+METHODS: We assessed cardiovascular outcomes of once-daily oral semaglutide in 
+an event-driven, randomized, double-blind, placebo-controlled trial involving 
+patients at high cardiovascular risk (age of ≥50 years with established 
+cardiovascular or chronic kidney disease, or age of ≥60 years with 
+cardiovascular risk factors only). The primary outcome in a time-to-event 
+analysis was the first occurrence of a major adverse cardiovascular event (death 
+from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke). 
+The trial was designed to rule out 80% excess cardiovascular risk as compared 
+with placebo (noninferiority margin of 1.8 for the upper boundary of the 95% 
+confidence interval for the hazard ratio for the primary outcome).
+RESULTS: A total of 3183 patients were randomly assigned to receive oral 
+semaglutide or placebo. The mean age of the patients was 66 years; 2695 patients 
+(84.7%) were 50 years of age or older and had cardiovascular or chronic kidney 
+disease. The median time in the trial was 15.9 months. Major adverse 
+cardiovascular events occurred in 61 of 1591 patients (3.8%) in the oral 
+semaglutide group and 76 of 1592 (4.8%) in the placebo group (hazard ratio, 
+0.79; 95% confidence interval [CI], 0.57 to 1.11; P<0.001 for noninferiority). 
+Results for components of the primary outcome were as follows: death from 
+cardiovascular causes, 15 of 1591 patients (0.9%) in the oral semaglutide group 
+and 30 of 1592 (1.9%) in the placebo group (hazard ratio, 0.49; 95% CI, 0.27 to 
+0.92); nonfatal myocardial infarction, 37 of 1591 patients (2.3%) and 31 of 1592 
+(1.9%), respectively (hazard ratio, 1.18; 95% CI, 0.73 to 1.90); and nonfatal 
+stroke, 12 of 1591 patients (0.8%) and 16 of 1592 (1.0%), respectively (hazard 
+ratio, 0.74; 95% CI, 0.35 to 1.57). Death from any cause occurred in 23 of 1591 
+patients (1.4%) in the oral semaglutide group and 45 of 1592 (2.8%) in the 
+placebo group (hazard ratio, 0.51; 95% CI, 0.31 to 0.84). Gastrointestinal 
+adverse events leading to discontinuation of oral semaglutide or placebo were 
+more common with oral semaglutide.
+CONCLUSIONS: In this trial involving patients with type 2 diabetes, the 
+cardiovascular risk profile of oral semaglutide was not inferior to that of 
+placebo. (Funded by Novo Nordisk; PIONEER 6 ClinicalTrials.gov number, 
+NCT02692716.).
+
+Copyright © 2019 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa1901118
+PMID: 31185157 [Indexed for MEDLINE]
+
+
+3. N Engl J Med. 2021 Mar 18;384(11):989-1002. doi: 10.1056/NEJMoa2032183. Epub 
+2021 Feb 10.
+
+Once-Weekly Semaglutide in Adults with Overweight or Obesity.
+
+Wilding JPH(1), Batterham RL(1), Calanna S(1), Davies M(1), Van Gaal LF(1), 
+Lingvay I(1), McGowan BM(1), Rosenstock J(1), Tran MTD(1), Wadden TA(1), Wharton 
+S(1), Yokote K(1), Zeuthen N(1), Kushner RF(1); STEP 1 Study Group.
+
+Collaborators: Ackermann MA, Luquez C, Mayer M, Musso C, Salzberg S, Colin I, 
+Mertens A, Scheen A, Thissen JP, Gaal LV, Asyova Z, Borissova AM, Botushanov N, 
+Daskalova I, Kamenov Z, Blackman A, D'Amours M, Labonte I, Li S, Edmonton E, 
+Lowe D, Wharton S, Zarinehbaf-Asadi S, Richelsen B, Pietiläinen K, Savolainen M, 
+Czernichow S, Disse E, Benite P, Mohammedi K, Monier A, Poitou-Bernert C, 
+Serusclat P, Thuan JF, Contzen C, Erlinger MM, Esser M, Linn T, Lüdemann J, 
+Milek K, Nalazek N, Rinke A, Sauter J, Schürholz T, Segner A, Vismane L, 
+Wendisch U, Bandyopadhyay S, Chand D, Desai P, Deshmukh V, Gupta Y, Jabbar PK, 
+Jain D, Neelaveni K, Mahadevan S, Rajput R, Reddy S, Srikanth K, Unnikrishnan A, 
+Inoue S, Kiyosue A, Matsuoka O, Ono H, Yamada M, Peralta DE, Jimenez-Ramos S, 
+Pech CM, Bogdanski P, Jozefowska M, Leksycka A, Ogonowski J, Alpenidze D, 
+Ershova O, Kharakhulakh M, Klimontov V, Ruyatkina L, Sergeeva-Kondrachenko M, 
+Troshina E, Zhdanova E, Huang KC, Batterham R, Capehorn M, King R, Lean M, 
+McGowan B, Myint KS, Park A, Randeva H, Russell G, Wilding J, Audish H, 
+Bartilucci D, Bays H, Brazg R, Broker R, Cannon K, Chaicha-Brom T, Davis M, 
+Downey HJ, Fehnel S, Free A, Haggag A, Hewitt M, Hollander P, Khan M, Laufer K, 
+McNeill R, Nardandrea J Jr, Neff L, Niswender K, O'Neil P, Pullman J, Raikhel M, 
+Redrick S, Reed J 3rd, Reynolds M, Rivera-Colon L, Rosenstock J, Schramm E, 
+Scott J, Shaw S, Shivaswamy V, Smith T, Soufer J, Straubing S, Sugimoto D, Toth 
+P, Wade R, Wyatt H, Wynne L.
+
+Author information:
+(1)From the Department of Cardiovascular and Metabolic Medicine, Institute of 
+Life Course and Medical Sciences, University of Liverpool, Liverpool (J.P.H.W.), 
+University College London Centre for Obesity Research, Division of Medicine, 
+University College London (R.L.B.), the National Institute of Health Research, 
+UCLH Biomedical Research Centre (R.L.B.), the Centre for Weight Management and 
+Metabolic Surgery, University College London Hospital (R.L.B.), and the 
+Department of Diabetes and Endocrinology, Guy's and St. Thomas' NHS Foundation 
+Trust (B.M.M.), London, and the Diabetes Research Centre, University of 
+Leicester (M.D.) and the NIHR Leicester Biomedical Research Centre (M.D.), 
+Leicester - all in the United Kingdom; Novo Nordisk, Søborg, Denmark (S.C., 
+M.T.D.T., N.Z.); the Department of Endocrinology, Diabetology, and Metabolism, 
+Antwerp University Hospital, University of Antwerp, Antwerp, Belgium (L.F.V.G.); 
+the Departments of Internal Medicine/Endocrinology and Population and Data 
+Sciences, University of Texas Southwestern Medical Center (I.L.), and the Dallas 
+Diabetes Research Center at Medical City (J.R.) - both in Dallas; the Department 
+of Psychiatry, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia (T.A.W.); York University, McMaster University and Wharton Weight 
+Management Clinic, Toronto (S.W.); the Department of Endocrinology, Hematology, 
+and Gerontology, Graduate School of Medicine, Chiba University and Department of 
+Diabetes, Metabolism, and Endocrinology, Chiba University Hospital, Chiba, Japan 
+(K.Y.); and the Division of Endocrinology, Feinberg School of Medicine, 
+Northwestern University, Chicago (R.F.K.).
+
+Comment in
+    N Engl J Med. 2021 Mar 18;384(11):1066-1067. doi: 10.1056/NEJMe2101705.
+    Eur Heart J. 2021 May 1;42(17):1652-1653. doi: 10.1093/eurheartj/ehab175.
+    Cell Metab. 2021 Apr 6;33(4):705-706. doi: 10.1016/j.cmet.2021.03.012.
+    Nat Med. 2021 Apr;27(4):589-590. doi: 10.1038/s41591-021-01319-4.
+    MMW Fortschr Med. 2021 May;163(9):26. doi: 10.1007/s15006-021-9940-5.
+    N Engl J Med. 2021 Jul 1;385(1):e4. doi: 10.1056/NEJMc2106918.
+    N Engl J Med. 2021 Jul 1;385(1):e4. doi: 10.1056/NEJMc2106918.
+    N Engl J Med. 2021 Jul 1;385(1):e4. doi: 10.1056/NEJMc2106918.
+    N Engl J Med. 2021 Jul 1;385(1):e4. doi: 10.1056/NEJMc2106918.
+    N Engl J Med. 2021 Jul 1;385(1):e4. doi: 10.1056/NEJMc2106918.
+    Ann Intern Med. 2021 Jul;174(7):JC80. doi: 10.7326/ACPJ202107200-080.
+
+BACKGROUND: Obesity is a global health challenge with few pharmacologic options. 
+Whether adults with obesity can achieve weight loss with once-weekly semaglutide 
+at a dose of 2.4 mg as an adjunct to lifestyle intervention has not been 
+confirmed.
+METHODS: In this double-blind trial, we enrolled 1961 adults with a body-mass 
+index (the weight in kilograms divided by the square of the height in meters) of 
+30 or greater (≥27 in persons with ≥1 weight-related coexisting condition), who 
+did not have diabetes, and randomly assigned them, in a 2:1 ratio, to 68 weeks 
+of treatment with once-weekly subcutaneous semaglutide (at a dose of 2.4 mg) or 
+placebo, plus lifestyle intervention. The coprimary end points were the 
+percentage change in body weight and weight reduction of at least 5%. The 
+primary estimand (a precise description of the treatment effect reflecting the 
+objective of the clinical trial) assessed effects regardless of treatment 
+discontinuation or rescue interventions.
+RESULTS: The mean change in body weight from baseline to week 68 was -14.9% in 
+the semaglutide group as compared with -2.4% with placebo, for an estimated 
+treatment difference of -12.4 percentage points (95% confidence interval [CI], 
+-13.4 to -11.5; P<0.001). More participants in the semaglutide group than in the 
+placebo group achieved weight reductions of 5% or more (1047 participants 
+[86.4%] vs. 182 [31.5%]), 10% or more (838 [69.1%] vs. 69 [12.0%]), and 15% or 
+more (612 [50.5%] vs. 28 [4.9%]) at week 68 (P<0.001 for all three comparisons 
+of odds). The change in body weight from baseline to week 68 was -15.3 kg in the 
+semaglutide group as compared with -2.6 kg in the placebo group (estimated 
+treatment difference, -12.7 kg; 95% CI, -13.7 to -11.7). Participants who 
+received semaglutide had a greater improvement with respect to cardiometabolic 
+risk factors and a greater increase in participant-reported physical functioning 
+from baseline than those who received placebo. Nausea and diarrhea were the most 
+common adverse events with semaglutide; they were typically transient and 
+mild-to-moderate in severity and subsided with time. More participants in the 
+semaglutide group than in the placebo group discontinued treatment owing to 
+gastrointestinal events (59 [4.5%] vs. 5 [0.8%]).
+CONCLUSIONS: In participants with overweight or obesity, 2.4 mg of semaglutide 
+once weekly plus lifestyle intervention was associated with sustained, 
+clinically relevant reduction in body weight. (Funded by Novo Nordisk; STEP 1 
+ClinicalTrials.gov number, NCT03548935).
+
+Copyright © 2021 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2032183
+PMID: 33567185 [Indexed for MEDLINE]
+
+
+4. Lancet. 2021 Mar 13;397(10278):971-984. doi: 10.1016/S0140-6736(21)00213-0.
+Epub  2021 Mar 2.
+
+Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 
+diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, 
+phase 3 trial.
+
+Davies M(1), Færch L(2), Jeppesen OK(2), Pakseresht A(2), Pedersen SD(3), 
+Perreault L(4), Rosenstock J(5), Shimomura I(6), Viljoen A(7), Wadden TA(8), 
+Lingvay I(9); STEP 2 Study Group.
+
+Author information:
+(1)Diabetes Research Centre, University of Leicester, Leicester, UK; NIHR 
+Leicester Biomedical Research Centre, Leicester, UK.
+(2)Novo Nordisk, Søborg, Denmark.
+(3)C-ENDO Diabetes and Endocrinology Clinic Calgary, Calgary, AB, Canada.
+(4)University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+(5)Dallas Diabetes Research Center at Medical City, Dallas, TX, USA.
+(6)Graduate School of Medicine, Osaka University, Suita, Osaka, Japan.
+(7)Borthwick Diabetes Research Unit, Lister Hospital, Stevenage, UK.
+(8)Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(9)University of Texas Southwestern Medical Center, Dallas, TX, USA. Electronic 
+address: ildiko.lingvay@utsouthwestern.edu.
+
+Comment in
+    Lancet. 2021 Mar 13;397(10278):942-943. doi: 10.1016/S0140-6736(21)00377-9.
+
+BACKGROUND: This trial assessed the efficacy and safety of the GLP-1 analogue 
+once a week subcutaneous semaglutide 2·4 mg versus semaglutide 1·0 mg (the dose 
+approved for diabetes treatment) and placebo for weight management in adults 
+with overweight or obesity, and type 2 diabetes.
+METHODS: This double-blind, double-dummy, phase 3, superiority study enrolled 
+adults with a body-mass index of at least 27 kg/m2 and glycated haemoglobin 
+7-10% (53-86 mmol/mol) who had been diagnosed with type 2 diabetes at least 180 
+days before screening. Patients were recruited from 149 outpatient clinics in 12 
+countries across Europe, North America, South America, the Middle East, South 
+Africa, and Asia. Patients were randomly allocated (1:1:1) via an interactive 
+web-response system and stratified by background glucose-lowering medication and 
+glycated haemoglobin, to subcutaneous injection of semaglutide 2·4 mg, or 
+semaglutide 1·0 mg, or visually matching placebo, once a week for 68 weeks, plus 
+a lifestyle intervention. Patients, investigators, and those assessing outcomes 
+were masked to group assignment. Coprimary endpoints were percentage change in 
+bodyweight and achievement of weight reduction of at least 5% at 68 weeks for 
+semaglutide 2·4 mg versus placebo, assessed by intention to treat. Safety was 
+assessed in all patients who received at least one dose of study drug. This 
+study is registered with ClinicalTrials.gov, NCT03552757 and is closed to new 
+participants.
+FINDINGS: From June 4 to Nov 14, 2018, 1595 patients were screened, of whom 1210 
+were randomly assigned to semaglutide 2·4 mg (n=404), semaglutide 1·0 mg 
+(n=403), or placebo (n=403) and included in the intention-to-treat analysis. 
+Estimated change in mean bodyweight from baseline to week 68 was -9·6% (SE 0·4) 
+with semaglutide 2·4 mg vs -3·4% (0·4) with placebo. Estimated treatment 
+difference for semaglutide 2·4 mg versus placebo was -6·2 percentage points (95% 
+CI -7·3 to -5·2; p<0·0001). At week 68, more patients on semaglutide 2·4 mg than 
+on placebo achieved weight reductions of at least 5% (267 [68·8%] of 388 vs 107 
+[28·5%] of 376; odds ratio 4·88, 95% CI 3·58 to 6·64; p<0·0001). Adverse events 
+were more frequent with semaglutide 2·4 mg (in 353 [87·6%] of 403 patients) and 
+1·0 mg (329 [81·8%] of 402) than with placebo (309 [76·9%] of 402). 
+Gastrointestinal adverse events, which were mostly mild to moderate, were 
+reported in 256 (63·5%) of 403 patients with semaglutide 2·4 mg, 231 (57·5%) of 
+402 with semaglutide 1·0 mg, and 138 (34·3%) of 402 with placebo.
+INTERPRETATION: In adults with overweight or obesity, and type 2 diabetes, 
+semaglutide 2·4 mg once a week achieved a superior and clinically meaningful 
+decrease in bodyweight compared with placebo.
+FUNDING: Novo Nordisk.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(21)00213-0
+PMID: 33667417 [Indexed for MEDLINE]
+
+
+5. JAMA. 2021 Apr 13;325(14):1403-1413. doi: 10.1001/jama.2021.1831.
+
+Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct to Intensive 
+Behavioral Therapy on Body Weight in Adults With Overweight or Obesity: The STEP 
+3 Randomized Clinical Trial.
+
+Wadden TA(1), Bailey TS(2), Billings LK(3), Davies M(4)(5), Frias JP(6), 
+Koroleva A(7), Lingvay I(8), O'Neil PM(9), Rubino DM(10), Skovgaard D(7), 
+Wallenstein SOR(7), Garvey WT(11); STEP 3 Investigators.
+
+Author information:
+(1)Department of Psychiatry, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia.
+(2)AMCR Institute, Escondido, California.
+(3)Department of Medicine, NorthShore University HealthSystem/University of 
+Chicago Pritzker School of Medicine, Skokie, Illinois.
+(4)Diabetes Research Centre, University of Leicester, Leicester, United Kingdom.
+(5)NIHR Leicester Biomedical Research Centre, Leicester General Hospital, 
+Leicester, United Kingdom.
+(6)National Research Institute, Los Angeles, California.
+(7)Novo Nordisk A/S, Søborg, Denmark.
+(8)Departments of Internal Medicine/Endocrinology and Population and Data 
+Sciences, University of Texas Southwestern Medical Center, Dallas.
+(9)Weight Management Center, Department of Psychiatry and Behavioral Sciences, 
+Medical University of South Carolina, Charleston.
+(10)Washington Center for Weight Management and Research, Arlington, Virginia.
+(11)Department of Nutrition Sciences, University of Alabama at Birmingham.
+
+Comment in
+    JAMA. 2021 Sep 28;326(12):1213-1214. doi: 10.1001/jama.2021.13021.
+
+IMPORTANCE: Weight loss improves cardiometabolic risk factors in people with 
+overweight or obesity. Intensive lifestyle intervention and pharmacotherapy are 
+the most effective noninvasive weight loss approaches.
+OBJECTIVE: To compare the effects of once-weekly subcutaneous semaglutide, 2.4 
+mg vs placebo for weight management as an adjunct to intensive behavioral 
+therapy with initial low-calorie diet in adults with overweight or obesity.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, parallel-group, 
+68-week, phase 3a study (STEP 3) conducted at 41 sites in the US from August 
+2018 to April 2020 in adults without diabetes (N = 611) and with either 
+overweight (body mass index ≥27) plus at least 1 comorbidity or obesity (body 
+mass index ≥30).
+INTERVENTIONS: Participants were randomized (2:1) to semaglutide, 2.4 mg 
+(n = 407) or placebo (n = 204), both combined with a low-calorie diet for the 
+first 8 weeks and intensive behavioral therapy (ie, 30 counseling visits) during 
+68 weeks.
+MAIN OUTCOMES AND MEASURES: The co-primary end points were percentage change in 
+body weight and the loss of 5% or more of baseline weight by week 68. 
+Confirmatory secondary end points included losses of at least 10% or 15% of 
+baseline weight.
+RESULTS: Of 611 randomized participants (495 women [81.0%], mean age 46 years 
+[SD, 13], body weight 105.8 kg [SD, 22.9], and body mass index 38.0 [SD, 6.7]), 
+567 (92.8%) completed the trial, and 505 (82.7%) were receiving treatment at 
+trial end. At week 68, the estimated mean body weight change from baseline was 
+-16.0% for semaglutide vs -5.7% for placebo (difference, -10.3 percentage points 
+[95% CI, -12.0 to -8.6]; P < .001). More participants treated with semaglutide 
+vs placebo lost at least 5% of baseline body weight (86.6% vs 47.6%, 
+respectively; P < .001). A higher proportion of participants in the semaglutide 
+vs placebo group achieved weight losses of at least 10% or 15% (75.3% vs 27.0% 
+and 55.8% vs 13.2%, respectively; P < .001). Gastrointestinal adverse events 
+were more frequent with semaglutide (82.8%) vs placebo (63.2%). Treatment was 
+discontinued owing to these events in 3.4% of semaglutide participants vs 0% of 
+placebo participants.
+CONCLUSIONS AND RELEVANCE: Among adults with overweight or obesity, once-weekly 
+subcutaneous semaglutide compared with placebo, used as an adjunct to intensive 
+behavioral therapy and initial low-calorie diet, resulted in significantly 
+greater weight loss during 68 weeks. Further research is needed to assess the 
+durability of these findings.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03611582.
+
+DOI: 10.1001/jama.2021.1831
+PMCID: PMC7905697
+PMID: 33625476 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Wadden 
+reports receiving grants from Novo Nordisk (from grant support to the University 
+of Pennsylvania) and personal fees from Novo Nordisk for service on a scientific 
+advisory board during the conduct of the study, as well as personal fees from WW 
+International (formerly Weight Watchers) for service on a scientific advisory 
+board outside the submitted work. Dr Bailey reports receiving grants, personal 
+fees, and nonfinancial support (writing assistance) from Novo Nordisk during the 
+conduct of the study. Dr Billings reports receiving personal fees from Novo 
+Nordisk, Sanofi, and Eli Lilly outside the submitted work. Dr Davies is 
+co-funded by the NIHR Leicester Biomedical Research Centre and reports receiving 
+consulting fees from Novo Nordisk; advisory board member, speaker, and 
+consulting fees from Sanofi-Aventis, Eli Lilly, Merck Sharp & Dohme, Boehringer 
+Ingelheim, AstraZeneca, and Janssen; advisory board fees from Lexicon, Servier, 
+and Gilead Sciences Ltd; speaker fees from Napp Pharmaceuticals; and grants from 
+Novo Nordisk, Sanofi-Aventis, Lilly, Boehringer Ingelheim, AstraZeneca, and 
+Janssen outside the submitted work. Dr Frias reports receiving research support 
+grants from Novo Nordisk during the conduct of the study; grants and personal 
+fees from Boehringer Ingelheim, Eli Lilly, Merck, Novo Nordisk, and Sanofi; and 
+grants from Janssen and Pfizer outside the submitted work. Dr Koroleva reports 
+being an employee of Novo Nordisk A/S and holding shares in the company. Dr 
+Lingvay reports receiving advisory board fees and consulting fees from 
+AstraZeneca, consulting fees from Bayer HealthCare Pharmaceuticals, Eli Lilly 
+and Company, Intarcia, Intercept Pharmaceuticals, Janssen Global Services, 
+MannKind Corporation, Target Pharma, Valeritas, and Zealand Pharma; advisory 
+board fees from Boehringer Ingelheim and Sanofi US Services; grant support, paid 
+to UT Southwestern, from Merck; grant support, paid to her institution, from 
+Mylan Pharmaceuticals and Pfizer; grant support, paid to UT Southwestern; and 
+advisory board fees, consulting fees, and travel support from Novo Nordisk. Dr 
+O'Neil reports receiving grants from Novo Nordisk during the conduct of the 
+study; grants from Epitomee Medical, Eli Lilly, and WW International; and 
+personal fees from Robard, Gedeon Richter, WebMD, and Novo Nordisk outside the 
+submitted work. Dr Rubino reports receiving writing assistance from Novo Nordisk 
+during the conduct of the study; serving as a clinical investigator for 
+AstraZeneca, Boehringer Ingelheim, and Novo Nordisk; and reports owning Novo 
+Nordisk shares of stock outside the submitted work. Dr Skovgaard reports spousal 
+employment at Novo Nordisk. Dr Wallenstein reports receiving personal fees from 
+Novo Nordisk during the conduct of the study and outside the submitted work. Dr 
+Garvey reports receiving grants from Novo Nordisk; serving as site principal 
+investigator for the clinical trial, which was sponsored by his university 
+during the conduct of the study; receiving grants from Lexicon and Pfizer 
+outside the submitted work; and serving as an ad hoc consultant on advisory 
+committees for Jazz Pharmaceuticals, Boehringer Ingelheim, Novo Nordisk, and 
+Pfizer. In each instance, he received no financial compensation, nor was there a 
+financial relationship. No other disclosures were reported.
+
+
+6. JAMA. 2021 Apr 13;325(14):1414-1425. doi: 10.1001/jama.2021.3224.
+
+Effect of Continued Weekly Subcutaneous Semaglutide vs Placebo on Weight Loss 
+Maintenance in Adults With Overweight or Obesity: The STEP 4 Randomized Clinical 
+Trial.
+
+Rubino D(1), Abrahamsson N(2), Davies M(3)(4), Hesse D(5), Greenway FL(6), 
+Jensen C(5), Lingvay I(7), Mosenzon O(8), Rosenstock J(9), Rubio MA(10), 
+Rudofsky G(11), Tadayon S(5), Wadden TA(12), Dicker D(13); STEP 4 Investigators.
+
+Collaborators: Friberg M, Sjödin A, Dicker D, Segal G, Mosenzon O, Sabbah M, 
+Sofer Y, Vishlitzky V, Meesters EW, Serlie M, van Bon A, Cardoso H, Freitas P, 
+Carneiro de Melo P, Monteiro M, Monteiro M, Rodrigues D, Badat A, Joshi P, 
+Latiff G, Mitha EA, Snyman HH, van Nieuwenhuizen E, González Albarrán O, Caixas 
+A, de Al Cuesta C, Garcia Luna PP, Morales Portillo C, Mezquita Raya P, Rubio 
+MA, Abrahamsson N, Hoffstedt J, von Wowern F, Uddman E, Bach-Kliegel B, 
+Beuschlein F, Bilz S, Golay A, Rudofsky G, Strey C, Fadieienko G, Kosei N, 
+Tatarchuk T, Velychko V, Zinych O, Aronoff SL, Bays HE, Brockmyre AP, Call RS, 
+Crump C, Desouza CV, Espinosa V, Free AL, Gandy WH, Geller SA, Gottschlich GM, 
+Greenway FL, Han-Conrad L, Harper W, Herman L, Hewitt M, Hollander P, Kaster SR, 
+Manessis A, Martin FA, McNeill RE, Murray AV, Norwood PC, Reed JCH, Rosenstock 
+J, Rubino DM, Schear MJ, Warren ML.
+
+Author information:
+(1)Washington Center for Weight Management, Arlington, Virginia.
+(2)Endocrinology Unit, Department of Medical Sciences, Uppsala University, 
+Uppsala, Sweden.
+(3)Diabetes Research Centre, University of Leicester, Leicester, England.
+(4)NIHR Leicester Biomedical Research Centre, Leicester General Hospital, 
+Leicester, England.
+(5)Novo Nordisk A/S, Søborg, Denmark.
+(6)Pennington Biomedical Research Center, Louisiana State University System, 
+Baton Rouge.
+(7)Departments of Internal Medicine/Endocrinology and Population and Data 
+Sciences, University of Texas Southwestern Medical Center, Dallas.
+(8)Diabetes Unit, Department of Endocrinology and Metabolism, Hadassah Medical 
+Center, Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.
+(9)Dallas Diabetes Research Center at Medical City, Dallas, Texas.
+(10)Department of Endocrinology and Nutrition, Hospital Clínico Universitario 
+San Carlos and Instituto de Investigación Sanitaria del Hospital Clínico San 
+Carlos (IdISSC), Faculty of Medicine, Universidad Complutense, Madrid, Spain.
+(11)Department of Endocrinology and Metabolic Diseases, Kantonsspital Olten, 
+Olten, Switzerland.
+(12)Department of Psychiatry, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia.
+(13)Internal Medicine Department and Obesity Clinic, Hasharon Hospital-Rabin 
+Medical Center, Petach-Tikva, Sackler Faculty of Medicine, Tel Aviv University, 
+Tel Aviv, Israel.
+
+Comment in
+    Ann Intern Med. 2021 Aug;174(8):JC88. doi: 10.7326/ACPJ202108170-088.
+
+IMPORTANCE: The effect of continuing vs withdrawing treatment with semaglutide, 
+a glucagon-like peptide 1 receptor agonist, on weight loss maintenance in people 
+with overweight or obesity is unknown.
+OBJECTIVE: To compare continued once-weekly treatment with subcutaneous 
+semaglutide, 2.4 mg, with switch to placebo for weight maintenance (both with 
+lifestyle intervention) in adults with overweight or obesity after a 20-week 
+run-in with subcutaneous semaglutide titrated to 2.4 mg weekly.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized, double-blind, 68-week phase 3a 
+withdrawal study conducted at 73 sites in 10 countries from June 2018 to March 
+2020 in adults with body mass index of at least 30 (or ≥27 with ≥1 
+weight-related comorbidity) and without diabetes.
+INTERVENTIONS: A total of 902 participants received once-weekly subcutaneous 
+semaglutide during run-in. After 20 weeks (16 weeks of dose escalation; 4 weeks 
+of maintenance dose), 803 participants (89.0%) who reached the 2.4-mg/wk 
+semaglutide maintenance dose were randomized (2:1) to 48 weeks of continued 
+subcutaneous semaglutide (n = 535) or switched to placebo (n = 268), plus 
+lifestyle intervention in both groups.
+MAIN OUTCOMES AND MEASURES: The primary end point was percent change in body 
+weight from week 20 to week 68; confirmatory secondary end points were changes 
+in waist circumference, systolic blood pressure, and physical functioning 
+(assessed using the Short Form 36 Version 2 Health Survey, Acute Version 
+[SF-36]).
+RESULTS: Among 803 study participants who completed the 20-week run-in period 
+(with a mean weight loss of 10.6%) and were randomized (mean age, 46 [SD, 12] 
+years; 634 [79%] women; mean body weight, 107.2 kg [SD, 22.7 kg]), 787 
+participants (98.0%) completed the trial and 741 (92.3%) completed treatment. 
+With continued semaglutide, mean body weight change from week 20 to week 68 was 
+-7.9% vs +6.9% with the switch to placebo (difference, -14.8 [95% CI, -16.0 to 
+-13.5] percentage points; P < .001). Waist circumference (-9.7 cm [95% CI, -10.9 
+to -8.5 cm]), systolic blood pressure (-3.9 mm Hg [95% CI, -5.8 to -2.0 mm Hg]), 
+and SF-36 physical functioning score (2.5 [95% CI, 1.6-3.3]) also improved with 
+continued subcutaneous semaglutide vs placebo (all P < .001). Gastrointestinal 
+events were reported in 49.1% of participants who continued subcutaneous 
+semaglutide vs 26.1% with placebo; similar proportions discontinued treatment 
+because of adverse events with continued semaglutide (2.4%) and placebo (2.2%).
+CONCLUSIONS AND RELEVANCE: Among adults with overweight or obesity who completed 
+a 20-week run-in period with subcutaneous semaglutide, 2.4 mg once weekly, 
+maintaining treatment with semaglutide compared with switching to placebo 
+resulted in continued weight loss over the following 48 weeks.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03548987.
+
+DOI: 10.1001/jama.2021.3224
+PMCID: PMC7988425
+PMID: 33755728 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Rubino 
+reported being a clinical investigator for Boehringer Ingelheim and AstraZeneca 
+and receiving speaker fees, consulting fees, and honoraria from Novo Nordisk and 
+being a shareholder in Novo Nordisk. Dr Davies reported receipt of consultant, 
+advisory board member, and speaker fees from Novo Nordisk, Sanofi, Eli Lilly, 
+and Boehringer Ingelheim; advisory board member and speaker fees from 
+AstraZeneca; advisory board member fees from Gilead Sciences, Janssen, and 
+Lexicon; speaker fees from Napp Pharmaceuticals and Takeda Pharmaceuticals 
+International, and grants from AstraZeneca, Novo Nordisk, Boehringer Ingelheim, 
+Janssen, and Sanofi. Dr Hesse reported receipt of personal fees from Novo 
+Nordisk. Dr Greenway reported receipt of grants from Pennington Biomedical 
+Research Center and NuSirt to his institution; research funding from NovMeta 
+Pharma and Melior Discoveries; receipt of consulting fees from Basic Research, 
+Dr. Reddy’s Laboratories, Jazz Pharmaceuticals, General Nutrition Corporation, 
+and Regeneron Pharmaceuticals; receipt of scientific advisory board fees from 
+Jenny Craig and Pfizer; and stock ownership in Academic Technology Ventures, 
+Ketogenic Health Systems, Plensat, UR Labs, and Rejuvenate Bio. In addition, Dr 
+Greenway has a patent issued for orlistat and a patent pending for 
+pramlintide/albuterol. Ms Jensen reported receipt of personal fees from Novo 
+Nordisk. Dr Lingvay reported receipt of grants, personal fees, and nonfinancial 
+support from Novo Nordisk and Sanofi; personal fees and nonfinancial support 
+from Eli Lilly, AstraZeneca, and Boehringer Ingelheim; personal fees from 
+Janssen, Intercept, Intarcia, TARGETPharma, Mannkind, Valeritas, Bayer, and 
+Zealand Pharma; grants and nonfinancial support from Merck and Pfizer; and 
+grants from Mylan. Dr Mosenzon reported receipt of grants from Novo Nordisk and 
+AstraZeneca through Hadassah Medical Center; advisory board and speaker’s bureau 
+fees from Novo Nordisk, AstraZeneca, Eli Lilly, Merck Sharp & Dohme, and Sanofi; 
+speaker’s bureau fees from Boehringer Ingelheim and Janssen; and advisory board 
+fees from BOL Pharma. Dr Rosenstock reported receipt of scientific advisory 
+board fees, honoraria, consulting fees, and grants/research support from Novo 
+Nordisk, Applied Therapeutics, Boehringer Ingelheim, Eli Lilly, Intarcia, 
+Oramed, and Sanofi; honoraria or consulting fees from Zealand; and 
+grants/research support from Genentech, Novartis, Pfizer, REMD Biotherapeutics, 
+and vTv Therapeutics. Dr Rubio reported receipt of personal fees from Novo 
+Nordisk. Dr Tadayon reported being a full-time employee of and shareholder in 
+Novo Nordisk. Dr Wadden reported receipt of grants from Novo Nordisk received on 
+behalf of the University of Pennsylvania and scientific advisory board fees from 
+Novo Nordisk and WW (formerly Weight Watchers). Dr Dicker reported receipt of 
+personal fees, nonfinancial support, and grants from Novo Nordisk and grants 
+from Eli Lilly. No other disclosures were reported.
+
+
+7. N Engl J Med. 2023 Dec 14;389(24):2221-2232. doi: 10.1056/NEJMoa2307563. Epub 
+2023 Nov 11.
+
+Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes.
+
+Lincoff AM(1), Brown-Frandsen K(1), Colhoun HM(1), Deanfield J(1), Emerson 
+SS(1), Esbjerg S(1), Hardt-Lindberg S(1), Hovingh GK(1), Kahn SE(1), Kushner 
+RF(1), Lingvay I(1), Oral TK(1), Michelsen MM(1), Plutzky J(1), Tornøe CW(1), 
+Ryan DH(1); SELECT Trial Investigators.
+
+Collaborators: Porto A, Villarino A, Chacon C, Zaidman CJ, Farias E, Duronto E, 
+Farias JM, Casas M, Oviedo A, Sanabria HD, Perez Terns P, Amerena J, Leung M, 
+Colquhoun DM, Purnell P, William M, Abhayaratna WP, Morbey C, Nicholls S, Cross 
+D, Arstall M, Kostner K, Shirazi M, Ekinci EI, Toplak H, Hanusch U, Aigner E, 
+Ludvik B, Kautzky-Willer A, Prager R, Kaser S, Vanduynhoven P, Verwerft J, 
+Vrolix M, De Pauw M, Vercammen C, Van De Borne P, Prakova-Teneva ZR, Runev N, 
+Petrov I, Milanova M, Postadzhiyan A, Gelev V, Vasileva SP, Georgiev B, Katova 
+T, Tokmakova M, Goudev A, Vassilev D, Minkova DA, Tisheva-Gospodinova S, Yotov 
+Y, Rossi P, Nicolau JC, Maia LN, Saraiva JF, Kormann AP, Arantes FB, Kaiser SE, 
+Leite SO, Cercato C, Fonseca AG, Kurtz Lisboa HR, Turatti LA, Franco DR, Farsky 
+PS, Poirier P, Pandey AS, St-Maurice F, Bourgeois R, Robitaille Y, Constance C, 
+Filteau P, Verma S, Vijayaraghavan R, Weisnagel J, Hartleib M, Pedersen S, 
+Tellier G, Peters K, Cha JY, Langlois MF, Garg N, Datta S, Salter T, Spaic T, 
+Lau D, Tsoukas GM, Stewart J, Vale N, Rabasa-Lhoret R, Vallieres G, Allison R, 
+Martinez Cano CA, Accini Mendoza JL, Botero Lopez R, Urina Triana MA, Rodriguez 
+Plazas JA, Cadena Bonfanti AJ, Malecha J, Klimsa Z, Linhart A, Koleckar P, 
+Cermak O, Kuchar L, Stasek J, Malicherova E, Vesela A, Haluzik M, Jungmair W, 
+Stahl HD, Appel KF, Al-Zoebi A, Eggebrecht H, Wagner J, Zeller H, Kreutzmann K, 
+Meyhöfer S, Von Engelhardt C, Sauter J, Jacob S, Sturm K, Kahrmann G, Von 
+Münchhausen C, Chevts J, Hagenow A, Froer M, Segner A, Lehrke M, Schaum T, 
+Heymer P, Wendisch U, Kempe HP, Denger RJ, Steindorf J, Bôttcher M, Mreng M, 
+Gislason G, Egstrup K, Hove JD, Jensen SE, Nibouche DE, Chettibi M, Hammoudi N, 
+Tinahones F, Morales Portillo C, De La Cuesta C, Soto González A, Rivas 
+Fernandez M, Castro A, Gonzalez Albarran O, Mezquita Raya P, De Pablo D, Merino 
+Torres JF, Masmiquel Comas L, Lakka T, Ahtiainen P, Pietila M, Ilveskoski E, 
+Ukkola O, Niskanen L, Keski-Opas T, Cariou B, Demicheli T, Petit C, Kerneis M, 
+Schiele F, Thuan JF, Gatta-Cherifi B, Verges B, Hulot JS, Stephan D, Serusclat 
+P, Steg G, Barone Rochette G, Keeling P, Sathyapalan T, Randeva H, Wong YK, 
+Miras A, Clifford P, Tatovic D, Andrews R, Strzelecka A, Asamoah N, Barber M, 
+Broadley A, Lee K, Paul N, Vaidya B, Wyatt N, Price H, Vincent R, Wakeling J, 
+Clark R, Creely S, English P, Sharma S, Capehorn M, Lang C, Beerachee Y, Sharma 
+R, Wilding J, Wilson P, Lynch M, Mcgowan B, Myint M, Dang C, Khoo J, Senior R, 
+Swanson N, Bellary S, Nair S, Stoker J, Dobson S, Jackson-Voyzey E, Tait G, 
+Kartalis A, Tsougos E, Patsilinakos S, Tziomalos K, Lambadiari V, Kokkinos A, 
+Argyrakopoulou G, Lanaras L, Liberopoulos E, Siasos G, Stamatelopoulos K, Ntaios 
+G, Pagkalos E, Ruzic A, Kruljac I, Milicic D, Canecki Varzic S, Budincevic H, 
+Fuckar K, Delic-Brkljacic D, Páll D, Lupkovics G, Piros A, Konyves L, Takacs R, 
+Baranyai M, Desai P, Abhyankar A, Parvathareddy KM, Agarwal DK, Jitendra Pal 
+Singh S, Sethi R, Wander GS, Prafulla KG, Desai D, Kaul U, Vijan V, Thomas N, 
+Christopher J, Hiremath S, Bhagwat A, Bansal S, Mahajan A, Mittal S, Ajay N, 
+Abhaichand RK, Fulwani M, Garg S, Gandotra D, Shah MK, Kahali D, Varghese K, 
+Pothineni RB, Arneja J, Ambuj R, Kannan J, Maher V, Byrne M, Sreenan S, Molony 
+D, Le Roux C, Mcdonald K, Durst R, Shechter M, Arbel Y, Shehadeh N, Zornitzki T, 
+Sofer Y, Liberty I, Vishlitzky V, Mosenzon O, Bashkin A, Segal Lieberman G, 
+Dicker D, Santini F, Leonetti F, Buscemi S, Mingrone G, Pagotto U, Malavazos A, 
+Tuccinardi D, Cogni G, Bo S, Mannucci E, Sbraccia P, Frittitta L, Zatelli MC, 
+Bucci M, Berra C, Vettor R, Dotta F, Cortinovis F, Colao AM, Mirani M, Muratori 
+F, Manita M, Doi M, Oh F, Sato A, Takeuchi Y, Sueyoshi A, Hata Y, Miyamoto N, 
+Fujii K, Mitomo S, Hanaoka K, Okada Y, Ezaki H, Maeda I, Kawanishi M, Kitamura 
+R, Miyake T, Kiyosue A, Fukushima Y, Isawa T, Watanabe A, Ueda O, Kunishige H, 
+Ono Y, Kadokami T, Iwasawa T, Onaka H, Sugiura T, Kinoshita N, Ando T, Oguri M, 
+Matsumoto T, Kato T, Koga T, Fujita R, Yamaguchi H, Teragawa H, Morisaki K, 
+Yamasaki M, Okayama H, Nagano T, Abe M, Tanaka H, Natsuaki M, Sakamoto T, Ohsugi 
+M, Maeda H, Kodera S, Kinoshita M, Klavina I, Lace A, Latkovskis G, Rezgale I, 
+Rancane G, Veze I, Teterovska D, Sime I, Garcia Hernandez PA, Garcfa Reza R, 
+Arias Mendoza MA, Arenas León JL, Bazzoni Ruiz AE, Morales Villegas EC, Lazcano 
+Soto JR, Jimenez-Ramos SA, De Los Rios Ibarra MO, Ong TK, Abidin IBZ, Kasim SS, 
+Ali N, Wan Mohamed WMI, Lee LY, Krishinan S, Ruhani AI, Hussein Z, Rosman A, 
+Bang LH, Van Der Zwaan C, Vossenberg T, Martens FMAC, Groenemeijer B, Nierop P, 
+Dorman R, Van Beek AP, Swart H, Schaap J, Romer TJ, Høivik HO, Tonstad S, 
+Hjelmesaeth J, Gullestad L, Nygard OK, H Galmen RG, Rice E, Halvorsen S, 
+Gretland Valderhaug T, Czochra W, Wozniak I, Bogdanski P, Franek E, Ostrowska L, 
+Kania G, Karczmarczyk A, Gajos G, Stogowska-Nikiciuk B, Chrustowski W, Skoczylas 
+G, Jurowiecki J, Kujawiak M, Leksycka A, Szyprowska E, Beckowski M, Kalmucki P, 
+Lukaszewicz M, Pulka G, Jozefowska M, Monteiro P, Franca S, Fonseca L, Martins 
+C, Pinto F, Ferreira D, Enculescu D, Marin L, Constantin C, Enache G, Morosanu 
+M, Reurean Pintilei DV, Mistodie CV, Constantinescu S, Nicolescu G, Onaca A, 
+Nafornita V, Pop L, Cif A, Popa B, Cosma D, Kurtinecz M, Toarba C, Lupu S, 
+Caceaune E, M'fndrescu NM, Hancu N, Vladu IM, Avram R, Badiu CV, Vlad A, 
+Ermakova P, Barbarash O, Ruyatkin D, Ezhov M, Ryabov VV, Zrazhevskiy K, Semashko 
+NA, Sergeeva-Kondrachenko MY, Gurieva I, Kobalava Z, Zykov M, Khaisheva L, 
+Gordeev IG, Zhdanova EA, Sardinov R, Zalevskaya A, Boshchenko AA, Shutemova E, 
+Samoilova Y, Lysenko TA, Sorokin M, Suplotova LA, Bolshakova OO, Dvoryashina IV, 
+Smolenskaya O, Veselovskaya NG, Belousova L, Antonova E, Peskov AB, Shaydyuk O, 
+Markova T, Obrezan A, Sveklina T, Shalaev S, Gilinskaya O, Khlevchuk T, 
+Galyavich A, Mareev V, Guseva GN, Zagrebelnaya O, Vorobyeva O, Krivosheeva I, 
+Reafan L, Alpenidze D, Platonov G, Vinogradova O, Pergaeva Y, Kazakova EE, 
+Ipatko I, Ershova O, Kharakhulakh M, Lalic N, Stankovic G, Ristic A, Djenic N, 
+Stokic E, Lalic K, Asanin M, Vukicevic M, Eliasson B, Rydén L, Eliasson K, 
+Lindholm CJ, Holmer H, Mooe T, Piyayotai D, Udommongkol C, Vathesatogkit P, 
+Suwanagool A, Kiatchoosakun S, Suwanwalaikorn S, Sansanayudh N, Buranapin S, 
+Wongcharoen W, Bakiner OS, Celik A, Sari R, Altuntas Y, Kayikcioglu M, Gogas D, 
+Ozpelit E, Tuna MM, Araz M, Oguzhan A, Gul I, Ozdogan O, Unubol M, Sonmez YA, 
+Sancak S, Adas M, Kanadasi M, Dagdelen S, Yazici D, Soyluk Selcukbiricik O, Liu 
+ME, Wu CC, Yeh HI, Hsieh IC, Lee TL, Rudenko L, Myshanych G, Parkhomenko O, 
+Ilashchuk T, Vyshnyvetskyy I, Leonidova V, Horoshko O, Buriakovska O, Velychko 
+V, Kushnir M, Stanislavchuk M, Kyyak Y, Todoriuk L, Levchenko O, Lysak Z, 
+Mostovoy Y, Serota H, Doran JA, Concha M, Lupovitch S, Fordan S, Samal AK, 
+Desouza CV, Rasouli N, Smith SK, Shneker A, Harris B, Kandath D, Al-Karadsheh A, 
+Clark W, Carr J, Anderson RJ, Tran H, Jardula MF, Marso SP, O'donnell P, Snyder 
+B, Wynne A, Koren MJ, Harris K, Buse JB, Lingvay I, Murray R, Swenson BP, Bitar 
+F, Singh N, Wallace J, Cannon K, Murthy A, Bakdash W, Iteld B, Logemann T, Busch 
+R, Correia M, Usdan L, Bernstein M, Jabbar D, Mcgrew F, Sultan S, Allison DC, 
+Garvey WT, Zacher J, Sivalingam K, Robbins D, Aroda VR, Brautigam D, Jackson RA, 
+Riley TH, Sangrigoli R, Baum S, Mills RE, Reyes CR, Morawski EJ, Abou Assi H, 
+Berk M, Tripathy D, Billings L, Lewis M, Hewitt E, Zarich S, Ariani M, Siddiqui 
+IA, Mcpherson DD, Herzog W, Levins P, Soufer J, Carrillo-Jimenez R, Pereira I, 
+Daboul NY, Buljubasic N, Geller SA, Rosen G, Wenocur HS, Audish H, Dela Llana A, 
+Biggs WC, Calinescu CV, Agha M, Brodie SK, Bays HE, Budoff MJ, Kastelic R, 
+Ledesma GN, Mclean BK, Powell T, Sathananthan A, Sigal F, Wilson JP, Lash J, 
+Sidey J, Buynak R, Pereira ES, Barnum O, Burguera B, Joyce JM, Nayak BM, 
+Lenzmeier T, Siraj E, Warren ML, Weintraub H, Dukes CE, Houser PM, Kereiakes DJ, 
+Lofton H, Raikhel MA, Weber B, Opsahl PJ, Block B, Beshay I, Khadra S, Brockmyre 
+AP, Gandy WH, Risser JA, Jaffrani NA, Sotolongo C, Heimer B, Iranmanesh A, Arif 
+AA, Lovell CF, Philis-Tsimikas A, Garza JC, Potu RP, Shah N, Spriggs D, Agaiby 
+JM, Liu J, Purighalla RS, Oaks JB, Saggar S, Patel MB, Qureshi M, Solano R, 
+Scott J, Cornett GM, Lepor N, Nakhle SN, Miller G, Pop-Busui R, Trusau A, Shea 
+HC, Call RS, Hartman AN, Condit J, Pullman J, Rodbard HW, Martinez C, Geohas JG, 
+Issa M, Sofley CW, Chaicha-Brom T, Ward K, Lorraine R, Ghazi A, Klein EJ, 
+Klonoff D, Ong S, Vo A, Aronne LJ, Gambill ML, Bhan A, Sargeant W, Still C, 
+Morin RP, Delibasic M, Breton CF, Perez-Vargas EA, Oneil P, Bosworth H, Gilbert 
+MP, Ruffin O, Folkens EM, Meyers P, Wierum C, Jastreboff A, Davuluri AK, Ahmed 
+A, Gorton SC, Finneran MP, Herman L, Jerkins T, Munir I, Tamirisa A, Curtis B, 
+Kubicki T, Johnson W, Yuan Q, Krishnasamy SS, Welker J, Chandra S, Buffman B, 
+Perkelvald A, Pratley RE, Shlesinger Y, Poremba J, Levy LJ, D'agostino R, 
+Friedman K, Ebrahim IO, Badat A, Burgess L, Fourie N, Urbach D, Fulat M, Van 
+Nieuwenhuizen E, Tsabedze N, Coetzee K, Klug E, Makotoko EM, Moosa N, De Jong 
+DM, Van E, Zyl LV, Corbett C, Kapp C, Wadvalla S, Dawood SY, Punt ZE, Lombard L, 
+Lombaard JJ, Bandezi VN, Peter J, Jugnundan P, Lincoff AM, Ryan DH, Colhoun HM, 
+Deanfield J, Emerson SS, Kahn SE, Kushner RF, Lingvay I, Plutzky J, 
+Brown-Frandsen K, Hovingh GK, Hardt-Lindberg S, Tornøe CW.
+
+Author information:
+(1)From the Department of Cardiovascular Medicine, Cleveland Clinic, Cleveland 
+Clinic Lerner College of Medicine of Case Western Reserve University, Cleveland 
+(A.M.L.); Novo Nordisk, Søborg, Denmark (K.B.-F., S.E., S.H.-L., G.K.H., T.K.O., 
+M.M.M., C.W.T.); the Institute of Genetics and Molecular Medicine, University of 
+Edinburgh, Edinburgh (H.M.C.), and the National Institute for Cardiovascular 
+Outcomes Research, University College London, London (J.D.) - both in the United 
+Kingdom; the Department of Biostatistics, University of Washington (S.S.E.), and 
+the Department of Medicine, VA Puget Sound Health Care System and University of 
+Washington (S.E.K.) - both in Seattle; the Department of Vascular Medicine, 
+Academic Medical Center, Amsterdam (G.K.H.); the Department of Medicine, 
+Feinberg School of Medicine, Northwestern University, Chicago (R.F.K.); the 
+Department of Internal Medicine (Endocrinology Division) and Peter O'Donnell Jr. 
+School of Public Health, University of Texas Southwestern Medical Center, Dallas 
+(I.L.); the Department of Cardiovascular Medicine, Brigham and Women's Hospital 
+and Harvard Medical School, Boston (J.P.); and Pennington Biomedical Research 
+Center, Baton Rouge, LA (D.H.R.).
+
+Comment in
+    Nat Rev Cardiol. 2024 Feb;21(2):69. doi: 10.1038/s41569-023-00970-3.
+    N Engl J Med. 2024 Feb 22;390(8):766. doi: 10.1056/NEJMc2400414.
+    N Engl J Med. 2024 Feb 22;390(8):766-767. doi: 10.1056/NEJMc2400414.
+    N Engl J Med. 2024 Feb 22;390(8):767. doi: 10.1056/NEJMc2400414.
+    N Engl J Med. 2024 Feb 22;390(8):767. doi: 10.1056/NEJMc2400414.
+    N Engl J Med. 2024 Feb 22;390(8):767-768. doi: 10.1056/NEJMc2400414.
+    N Engl J Med. 2024 Feb 22;390(8):768-769. doi: 10.1056/NEJMc2400414.
+    Ann Intern Med. 2024 Mar;177(3):JC31. doi: 10.7326/J24-0008.
+    MMW Fortschr Med. 2024 Apr;166(6):22-23. doi: 10.1007/s15006-024-3771-0.
+    Diabetes Obes Metab. 2024 Aug;26(8):3003-3005. doi: 10.1111/dom.15631.
+
+BACKGROUND: Semaglutide, a glucagon-like peptide-1 receptor agonist, has been 
+shown to reduce the risk of adverse cardiovascular events in patients with 
+diabetes. Whether semaglutide can reduce cardiovascular risk associated with 
+overweight and obesity in the absence of diabetes is unknown.
+METHODS: In a multicenter, double-blind, randomized, placebo-controlled, 
+event-driven superiority trial, we enrolled patients 45 years of age or older 
+who had preexisting cardiovascular disease and a body-mass index (the weight in 
+kilograms divided by the square of the height in meters) of 27 or greater but no 
+history of diabetes. Patients were randomly assigned in a 1:1 ratio to receive 
+once-weekly subcutaneous semaglutide at a dose of 2.4 mg or placebo. The primary 
+cardiovascular end point was a composite of death from cardiovascular causes, 
+nonfatal myocardial infarction, or nonfatal stroke in a time-to-first-event 
+analysis. Safety was also assessed.
+RESULTS: A total of 17,604 patients were enrolled; 8803 were assigned to receive 
+semaglutide and 8801 to receive placebo. The mean (±SD) duration of exposure to 
+semaglutide or placebo was 34.2±13.7 months, and the mean duration of follow-up 
+was 39.8±9.4 months. A primary cardiovascular end-point event occurred in 569 of 
+the 8803 patients (6.5%) in the semaglutide group and in 701 of the 8801 
+patients (8.0%) in the placebo group (hazard ratio, 0.80; 95% confidence 
+interval, 0.72 to 0.90; P<0.001). Adverse events leading to permanent 
+discontinuation of the trial product occurred in 1461 patients (16.6%) in the 
+semaglutide group and 718 patients (8.2%) in the placebo group (P<0.001).
+CONCLUSIONS: In patients with preexisting cardiovascular disease and overweight 
+or obesity but without diabetes, weekly subcutaneous semaglutide at a dose of 
+2.4 mg was superior to placebo in reducing the incidence of death from 
+cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke at a 
+mean follow-up of 39.8 months. (Funded by Novo Nordisk; SELECT 
+ClinicalTrials.gov number, NCT03574597.).
+
+Copyright © 2023 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2307563
+PMID: 37952131 [Indexed for MEDLINE]
+
+
+8. Diabetes Ther. 2025 Jan;16(1):15-28. doi: 10.1007/s13300-024-01659-7. Epub
+2024  Nov 9.
+
+Cardiovascular, Metabolic, and Safety Outcomes with Semaglutide by Baseline Age: 
+Post Hoc Analysis of SUSTAIN 6 and PIONEER 6.
+
+Bain SC(1), Belmar N(2), Hoff ST(3), Husain M(4), Rasmussen S(2), Vilsbøll T(5), 
+Petrie MC(6).
+
+Author information:
+(1)Swansea University Medical School, Swansea University, Swansea, SA2 8PP, UK. 
+s.c.bain@swansea.ac.uk.
+(2)Novo Nordisk A/S, Søborg, Denmark.
+(3)Novo Nordisk A/S, Bagsværd, Denmark.
+(4)Department of Medicine, Ted Rogers Centre for Heart Research, University of 
+Toronto, Toronto, Canada.
+(5)Steno Diabetes Center Copenhagen, University of Copenhagen, Copenhagen, 
+Denmark.
+(6)School of Cardiovascular and Metabolic Health, University of Glasgow, 
+Glasgow, UK.
+
+INTRODUCTION: The high risk of cardiovascular events in people with type 2 
+diabetes increases with age. The cardiovascular effects of once-weekly 
+subcutaneous and once-daily oral semaglutide versus placebo in people with 
+type 2 diabetes at high cardiovascular risk were investigated in the SUSTAIN 6 
+and PIONEER 6 cardiovascular outcomes trials, respectively. It is unknown 
+whether the effects of semaglutide are age dependent.
+METHODS: This post hoc analysis evaluated cardiovascular, metabolic, and safety 
+outcomes with semaglutide versus placebo in age subgroups (≤ 60; > 60 to ≤ 65; 
+> 65 to ≤ 70; and > 70 years) pooled from SUSTAIN 6 and PIONEER 6. Major adverse 
+cardiovascular events (composite of cardiovascular death, nonfatal myocardial 
+infarction, and nonfatal stroke), changes from baseline in glycated 
+hemoglobin A1c (HbA1c) and body weight, and adverse events were analyzed.
+RESULTS: Semaglutide reduced major adverse cardiovascular events and its 
+components versus placebo across age subgroups (most hazard ratios < 1.0; 
+pinteraction > 0.05). The treatment difference in HbA1c reduction was greater in 
+those aged ≤ 60 years than in older subgroups (pinteraction = 0.01). Reductions 
+in body weight with semaglutide versus placebo were consistent across 
+age subgroups (pinteraction = 0.124). Serious adverse events or severe 
+hypoglycemic episodes did not differ between semaglutide and placebo across age 
+subgroups.
+CONCLUSION: Semaglutide consistently reduced major adverse cardiovascular events 
+and body weight versus placebo across age subgroups; its safety profile did not 
+differ with age. These results suggest that relaxing HbA1c targets based solely 
+on age may not always be required for people with type 2 diabetes.
+TRIAL REGISTRATION: SUSTAIN 6 (NCT01720446) and PIONEER 6 (NCT02692716) are 
+registered at ClinicalTrials.gov.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s13300-024-01659-7
+PMCID: PMC11759736
+PMID: 39520501
+
+Conflict of interest statement: Declarations. Conflict of Interest: Stephen Bain 
+has received honoraria, teaching and research sponsorship/grants from the 
+following: AstraZeneca, Boehringer Ingelheim, BMS, Eli Lilly, GSK, Merck Sharp & 
+Dohme, Novo Nordisk, Pfizer, Sanofi, and Takeda. Stephen Bain is an Editorial 
+Board member of Diabetes Therapy. Stephen Bain was not involved in the selection 
+of peer reviewers for the manuscript nor any of the subsequent editorial 
+decisions. Nicolas Belmar, Søren Hoff, and Søren Rasmussen are employees of Novo 
+Nordisk, and Søren Hoff and Søren Rasmussen are shareholders in Novo Nordisk. 
+Mansoor Husain has received research grants from AstraZeneca, Merck, and Novo 
+Nordisk, and advisory/consultancy fees from AstraZeneca, Boehringer Ingelheim, 
+Eli Lilly, Janssen, Merck, Novo Nordisk, and Roche. Tina Vilsbøll has served on 
+scientific advisory panels, been part of speakers’ bureaus, served as a 
+consultant to and/or received research support from Amgen, AstraZeneca, Bayer, 
+Boehringer Ingelheim, Eli Lilly, Gilead, GSK, Mundipharma, MSD/Merck, Novo 
+Nordisk, Sanofi, and Sun Pharmaceuticals. Mark Petrie has received grants or 
+contracts from AstraZeneca, Boehringer Ingelheim, Boston Scientific, Medtronic, 
+Novartis, Novo Nordisk, Pharmacosmos, Roche, and SQ Innovation Inc; consulting 
+fees and payment or honoraria for lectures, presentations, speakers’ bureaus, 
+manuscript writing, or educational events from AbbVie, AstraZeneca, Bayer, 
+Boehringer Ingelheim, Cardiorentis AG, Corvia Medical, Novartis, Novo Nordisk, 
+Pharmacosmos, Siemens, Takeda, and Vifor; has participated in a Data Safety 
+Monitoring Board or advisory board panels for AstraZeneca and Teikoku; and is a 
+Director of Global Clinical Trials Partners. Ethical Approval: SUSTAIN 6 and 
+PIONEER 6 were approved by independent ethics committees and institutional 
+review boards at each participating center and conducted in compliance with the 
+International Conference on Harmonization Good Clinical Practice guidelines and 
+the Declaration of Helsinki. All participants provided written informed consent 
+prior to any trial-related activities.
+
+
+9. Alzheimers Dement (N Y). 2025 May 6;11(2):e70076. doi: 10.1002/trc2.70076. 
+eCollection 2025 Apr-Jun.
+
+Safety considerations of semaglutide in the potential treatment of Alzheimer's 
+disease: A pooled analysis of semaglutide in adults aged ≥ 65 years.
+
+Sabbagh M(1), Boschini C(2), Cohen S(3), Fugger M(2), Jessen F(4), Dandanell 
+S(2), Pedersen SD(5), Tarazona LRS(2), Aroda VR(6).
+
+Author information:
+(1)Department of Neurology Barrow Neurological Institute Phoenix Arizona USA.
+(2)Novo Nordisk A/S Bagsværd Denmark.
+(3)Toronto Memory Program Toronto Ontario Canada.
+(4)Department of Psychiatry University Hospital of Cologne Cologne Germany.
+(5)C-endo Diabetes and Endocrinology Clinic Calgary Canada.
+(6)Brigham and Women's Hospital, Harvard Medical School Boston Massachusetts 
+USA.
+
+INTRODUCTION: The evoke/evoke+ trials are investigating semaglutide in a 
+population with early Alzheimer's disease (AD). Specific analyses of semaglutide 
+safety data in older adults are limited; therefore, in the current analysis, we 
+aimed to evaluate safety considerations with semaglutide in adults ≥ 65 years.
+METHODS: Adverse event (AE) data from three semaglutide phase 3a programs in 
+participants ≥ 65 years with type 2 diabetes and/or overweight/obesity were 
+pooled. Change in body weight was also assessed in a smaller subset of 
+participants ≥ 65 years.
+RESULTS: The analysis included 3529 participants ≥ 65 years. Baseline mean age 
+and body mass index in participants ≥ 65 years were 69.3 to 70.2 years and 29.7 
+to 35.4 kg/m2, respectively, compared to 47.8 to 58.5 years and 31.3 to 
+36.7 kg/m2 in the overall population. AEs with semaglutide occurred in 73.6% to 
+92.4% of participants ≥ 65 years versus 73.2% to 90.8% of the overall 
+population. AEs with semaglutide leading to permanent discontinuation appeared 
+to be more frequent in participants ≥ 65 years (9.3%-12.4%) versus the overall 
+population (5.7%-8.7%). Gastrointestinal disorders were the most frequently 
+reported AEs with semaglutide in participants ≥ 65 years (44.6%-73.8%) and in 
+the overall population (39.1%-73.4%). Participants aged ≥ 65 years receiving 
+semaglutide had an estimated weight loss of 3.8% at week 52 compared to 0.1% 
+with placebo.
+DISCUSSION: Age ≥ 65 years did not appear to affect the safety considerations of 
+semaglutide. The ongoing evoke/evoke+ trials will elucidate the balance of 
+efficacy and safety in the treatment of early AD with semaglutide.
+HIGHLIGHTS: This was a post hoc analysis evaluating adverse event (AE) data of 
+semaglutide in people ≥ 65 years.The most common AE with semaglutide was 
+gastrointestinal (GI).GI event rates were similar in people ≥ 65 years and the 
+overall study populations.
+
+© 2025 The Author(s). Alzheimer's & Dementia: Translational Research & Clinical 
+Interventions published by Wiley Periodicals LLC on behalf of Alzheimer's 
+Association.
+
+DOI: 10.1002/trc2.70076
+PMCID: PMC12056300
+PMID: 40337158
+
+Conflict of interest statement: Marwan Sabbagh reports consulting for Corium, 
+Eisai, Eli Lilly, KeifeRx, NeuroTherapia, Novo Nordisk, Prothena, 
+Roche–Genentech, Signant Health, Synaptogenix, and T3D. Cristina Boschini, 
+Magnus Fugger, Sune Dandanell, and Luis Rafael Solís Tarazona are employees 
+and/or shareholders of Novo Nordisk A/S. Sharon Cohen is an employee of the 
+Toronto Memory Program and has no financial conflicts of interest. Frank Jessen 
+reports fees for advice and presentations for AC Immune, Biogen, 
+Danone/Nutricia, Eisai, Grifols, Eli Lilly, Janssen, Novo Nordisk, and Roche; 
+funding from BMBF, BZGA, DFG, DZNE, Era‐net Neuron, Horizon 2020, IMI, 
+Innovationsfonds (GBA), and JPND; memberships for the German Association of 
+Psychiatry (DGPPN, member of the board), German Association of Biological 
+Psychiatry (DGBP), German Psychogeriatric Association (DGGPP), German Memory 
+Clinic Network (DNG, Chair), and European Alzheimer‘s Disease Consortium (EADC, 
+Chair); and served on the scientific advisory boards for German Alzheimer 
+Association, Alzheimer Europe, and Hirnliga. Sue D. Pedersen reports consulting 
+fees or speaking honoraria from Abbott, AstraZeneca, Bausch, Bayer, Boehringer 
+Ingelheim, Dexcom, Eli Lilly, HLS, Janssen, Merck, Novo Nordisk, Pfizer, and 
+Sanofi; and research studies for AstraZeneca, Boehringer Ingelheim, Eli Lilly, 
+Medpace, and Novo Nordisk. Vanita R. Aroda reports grants and other from Applied 
+Therapeutics, grants and other from Corcept, grants and other from Fractyl, 
+other from Mediflix, grants and other from Novo Nordisk, other from Pfizer, 
+grants and other from Sanofi, grants from Eli Lilly, and other from Janssen 
+(spouse) outside the submitted work. Author disclosures are available in the 
+supporting information.

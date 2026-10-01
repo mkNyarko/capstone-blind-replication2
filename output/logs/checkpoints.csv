@@ -3,3 +3,6 @@ step,figure1_box,n
 2,After deduplication,15971
 3,After cleaning age variable,8067
 4,Primary Suspect (PS),5302
+5,After outcome cleaning,2604
+6,After excluding congenital anomaly,2601
+7,Final analytic sample,2427
